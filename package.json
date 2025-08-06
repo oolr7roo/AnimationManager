@@ -1,25 +1,25 @@
-{
-  "name": "com.dreamzelkova.animationmanager",
-  "displayName": "dreamzelkova AnimationManager",
-  "version": "0.0.6",
-  "unity": "6000.40",
-  "author": {
-    "name": "jh.jo",
-    "email": "oolr7roo@naver.com",
-    "url": "https://dreamzelkova.tistory.com"
-  },
-  "description": "AnimationManager",
-  "dependencies": {},
-  "repository": {
-    "type": "git",
-    "url": "https://oolr7roo@github.com/oolr7roo/AnimationManager.git",
-    "revision": "asdfasdf1234xcvadf1324asdf"
-  },
-  "samples": [
-    {
-      "displayName": "TopToolbar",
-      "description": "TopToolbar",
-      "path": "Samples~/TopToolbar"
-    }
-  ]
-}
+{ 
+"name": "com.dreamzelkova.animationmanager", 
+"displayName": "dreamzelkova AnimationManager", 
+  "version": "0.0.7", 
+"unity": "6000.40", 
+"author": { 
+"name": "jh.jo", 
+"email": "oolr7roo@naver.com", 
+"url": "https://dreamzelkova.tistory.com" 
+}, 
+"description": "AnimationManager", 
+"dependencies": {}, 
+"repository": { 
+"type": "git", 
+"url": "https://oolr7roo@github.com/oolr7roo/AnimationManager.git", 
+"revision": "asdfasdf1234xcvadf1324asdf" 
+}, 
+"samples": [ 
+{ 
+"displayName": "TopToolbar", 
+"description": "TopToolbar", 
+"path": "Samples~/TopToolbar" 
+} 
+] 
+} 
